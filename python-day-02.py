@@ -1,4 +1,4 @@
-print the string last character
+# print the string last character
 print("Hello"[len("Hello")-1])
 
 
